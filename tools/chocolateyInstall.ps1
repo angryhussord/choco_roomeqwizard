@@ -1,6 +1,6 @@
 ﻿$packageName = 'roomeqwizard' 
 $installerType = 'exe' 
-$url = 'http://www.roomeqwizard.com/installers/REW_windows_5_12.exe' 
+$url = 'http://www.roomeqwizard.com/installers/REW_windows_5_13.exe' 
 $silentArgs = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-' 
 $validExitCodes = @(0) 
 
