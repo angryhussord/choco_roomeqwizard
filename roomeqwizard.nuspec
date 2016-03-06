@@ -5,7 +5,7 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>roomeqwizard</id>
     <title>Room EQ Wizard</title>
-    <version>5.13</version>
+    <version>5.14</version>
     <authors>John Mulcahy</authors>
     <owners>angryhussord</owners>
     <summary>REW is free room acoustics analysis software for measuring and analysing room and loudspeaker responses.</summary>
@@ -20,6 +20,8 @@
       <dependency id="jre8" version="8.0" />
     </dependencies>
     <releaseNotes>http://www.roomeqwizard.com/changehistory.html</releaseNotes>
+    <packageSourceUrl>http://www.roomeqwizard.com/installers/REW_windows_5_14.exe</packageSourceUrl>
+    <docsUrl>http://www.roomeqwizard.com/help/help_en-GB/html/index.html</docsUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
