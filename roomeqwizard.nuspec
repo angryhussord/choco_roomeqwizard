@@ -22,6 +22,8 @@
       <dependency id="jre8" version="8.0" />
     </dependencies>
     <releaseNotes>http://www.roomeqwizard.com/changehistory.html</releaseNotes>
+    <packageSourceUrl>http://www.roomeqwizard.com/installers/REW_windows_5_14.exe</packageSourceUrl>
+    <docsUrl>http://www.roomeqwizard.com/help/help_en-GB/html/index.html</docsUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
