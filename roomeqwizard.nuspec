@@ -13,13 +13,13 @@
     <projectUrl>http://www.roomeqwizard.com/</projectUrl>
     <packageSourceUrl>https://github.com/angryhussord/choco_roomeqwizard</packageSourceUrl>
     <docsUrl>http://www.roomeqwizard.com/help/help_en-GB/html/index.html</docsUrl>
-    <tags>audio sound acoustic parametric equalizer frequency room</tags>
+    <tags>audio sound acoustic parametric equalizer frequency room admin</tags>
     <copyright>Copyright © John Mulcahy 2016</copyright>
     <licenseUrl>http://www.roomeqwizard.com/eula.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.rawgit.com/angryhussord/choco_roomeqwizard/ab5202e5260219a88d8adc4ca0443815763daece/room-eq-wizard-icon.PNG</iconUrl>
     <dependencies>
-      <dependency id="jre8" version="8.0" />
+      <dependency id="jre8" version="" />
     </dependencies>
     <releaseNotes>http://www.roomeqwizard.com/changehistory.html</releaseNotes>
   </metadata>
